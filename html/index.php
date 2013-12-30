@@ -16,7 +16,7 @@ include 'inc/_head.php';
 <body>
 
 
-
+<?php include 'inc/_footer.php' ?>
 </body>
 
 </html>

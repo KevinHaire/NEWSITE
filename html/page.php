@@ -16,6 +16,7 @@ include 'inc/_head.php';
 
 <?php include 'inc/_webtools.php' ?>
 
+<?php include 'inc/_footer.php' ?>
 </body>
 
 </html>
